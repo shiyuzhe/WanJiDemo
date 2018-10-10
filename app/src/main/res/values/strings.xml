@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WanJiDemo</string>
+    <string name="connectionToDss">连接到DSS平台</string>
+    <string name="imageAndVideos">图片与视频</string>
+</resources>
